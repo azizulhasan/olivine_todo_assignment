@@ -1,6 +1,6 @@
 # olivine_todo_assignment
 
-
+# database in todo_database folder
 # dataseName    : laravel_olivine_todo
 # Login Info 
 # UserName      : hasan
